@@ -5,7 +5,7 @@ In this activity, we will create a single web page with the following content:
 
 
 ### Development Setup
-Create your `index.html` file inside the [**out**](/out) folder in this project.
+Create your `index.html` file inside the [**src**](/src) folder in this project.
 To test your output, simply open it in your preferred web browser.
 
 
