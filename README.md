@@ -1,7 +1,7 @@
 ## HTML | Activity #1 (Guided): Headings and Paragraphs
 In this activity, we will create a single web page with the following content:
 
-![final-output](img/html-01--01-final-output.jpg)
+![final-output](assets/html-01--01-final-output.jpg)
 
 
 ### Development Setup
@@ -27,7 +27,7 @@ First, we need a regular HTML template that already contains the page `<title>`.
 ### Primary Heading
 Now we will start creating content inside the `<body>` tag.
 
-![primary-heading](img/html-01--02-primary-heading.jpg)
+![primary-heading](assets/html-01--02-primary-heading.jpg)
 
 We will use the `<h1>` tag to create the primary heading.
 ```html
@@ -42,7 +42,7 @@ We will use the `<h1>` tag to create the primary heading.
 ### Secondary Headings
 Right after our primary heading, we can now write our secondary headings.
 
-![secondary-headings](img/html-01--03-secondary-headings.jpg)
+![secondary-headings](assets/html-01--03-secondary-headings.jpg)
 
 We will use `<h2>` tags to create these secondary headings.
 
@@ -64,7 +64,7 @@ Now that we've taken care of the primary and secondary headings,
 it's time to write content to support our topic.
 
 #### About Me
-![about-me-section](img/html-01--04-about-me-section.jpg)
+![about-me-section](assets/html-01--04-about-me-section.jpg)
 
 
 There are two blocks of text in the **About Me** section,
@@ -92,7 +92,7 @@ so we'll use two `<p>` tags for it.
 The **My Hobbies** section is a bit different.
 There are smaller subheaders for each hobby followed by a description.
 
-![my-hobbies-subheaders](img/html-01--05-my-hobbies-subheaders.jpg)
+![my-hobbies-subheaders](assets/html-01--05-my-hobbies-subheaders.jpg)
 
 First, we are going to use `<h3>` tags for these smaller subheaders.
 
@@ -111,7 +111,7 @@ First, we are going to use `<h3>` tags for these smaller subheaders.
 ```
 Then, we will expand the subject of these subheaders using the `<p>` tag.
 
-![my-hobbies-content](img/html-01--06-my-hobbies-content.jpg)
+![my-hobbies-content](assets/html-01--06-my-hobbies-content.jpg)
 
 
 ```html
