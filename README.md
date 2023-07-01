@@ -21,6 +21,7 @@ First, we need a regular HTML template that already contains the page `<title>`.
 <body>
     
 </body>
+</html>
 ```
 
 
