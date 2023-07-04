@@ -1,5 +1,5 @@
 ## HTML | Activity #1 (Guided): Headings and Paragraphs
-In this activity, we will create a single web page with the following content:
+In this activity, we will create a simple **Personal Web Page** with the following content:
 
 ![final-output](assets/html-01--01-final-output.jpg)
 
